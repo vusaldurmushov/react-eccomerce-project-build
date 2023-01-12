@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a013f9e7.css",
+    "main.js": "/static/js/main.3b6f1265.js",
+    "static/media/sblog1.png": "/static/media/sblog1.e8fb9234e6bddd4d64f9.png",
+    "static/media/monitor1.jpg": "/static/media/monitor1.891f60fa41dd41b7ff65.jpg",
+    "static/media/aboutimg2.png": "/static/media/aboutimg2.873eb2484e351e059066.png",
+    "static/media/monitor.jpg": "/static/media/monitor.e7f9f3cbb574c8236d8d.jpg",
+    "static/media/aboutimg3.png": "/static/media/aboutimg3.f9d0ed6dac65538d44e5.png",
+    "static/media/aboutimg1.png": "/static/media/aboutimg1.d4391a932bd748899894.png",
+    "static/media/slickeImg2.png": "/static/media/slickeImg2.31dec829d550e6e2634c.png",
+    "static/media/teamimg1.png": "/static/media/teamimg1.a5dd74d50e710acd20c3.png",
+    "static/media/blog4.png": "/static/media/blog4.51dac33d728322cee65e.png",
+    "static/media/teamimg2.png": "/static/media/teamimg2.9be597fe1b3a67a6235e.png",
+    "static/media/teamimg3.png": "/static/media/teamimg3.af66af2aff72a986d4d9.png",
+    "static/media/home-headphonesimg.png": "/static/media/home-headphonesimg.cc44f8bee752331d1ea0.png",
+    "static/media/teamimg4.png": "/static/media/teamimg4.8436482ebbf32b3be716.png",
+    "static/media/slickeImg1.png": "/static/media/slickeImg1.04adda01d6d761fe184f.png",
+    "static/media/new-pageImg.jpg": "/static/media/new-pageImg.35ddf7de829875c03d75.jpg",
+    "static/media/monitor4.webp": "/static/media/monitor4.3a98a6e5dd62cfd71266.webp",
+    "static/media/laptop1.jpg": "/static/media/laptop1.937810078109b3b706dc.jpg",
+    "static/media/vr2.png": "/static/media/vr2.69461b664ba26abaa657.png",
+    "static/media/laptop3 (2).jpeg": "/static/media/laptop3 (2).e2928eab02c51a376ea8.jpeg",
+    "static/media/vr1.png": "/static/media/vr1.a8b407833e25235c5596.png",
+    "static/media/404-img.png": "/static/media/404-img.b8ef1a62d506afbf26ec.png",
+    "static/media/reyler.png": "/static/media/reyler.5a88151c9bb055ea7a7f.png",
+    "static/media/h-watch.jpg": "/static/media/h-watch.0784ccebfad3f1fd9181.jpg",
+    "static/media/blog2.png": "/static/media/blog2.7f981ff9eda2580e63dd.png",
+    "static/media/comment.svg": "/static/media/comment.1313046c83b5239b9663d7b9126f9046.svg",
+    "static/media/product.png": "/static/media/product.844a72e97bdee65aced8.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.a013f9e7.css.map": "/static/css/main.a013f9e7.css.map",
+    "main.3b6f1265.js.map": "/static/js/main.3b6f1265.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a013f9e7.css",
+    "static/js/main.3b6f1265.js"
+  ]
+}
